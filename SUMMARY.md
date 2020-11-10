@@ -4,6 +4,7 @@
 * [章节 1](chapter1.md)
 * [章节 2](chapter2.md)
 * [章节 3](chapter3.md)
+* [章节 4](chapter3.md)
 
 * [卷 I](part1/README.md)
     * [写作很棒](part1/writing.md)
